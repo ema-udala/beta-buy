@@ -5,12 +5,18 @@ Please visit project link in the description :+1:
 
 Feel free to use stripe test card details to perform test transactions
 
+Card No
+
     4242 4242 4242 4242
 Date
+
     04 24
-cvv
+    
+CVV
+
     424
 zip
+
     24242
 
 
